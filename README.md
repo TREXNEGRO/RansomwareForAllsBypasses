@@ -4,7 +4,7 @@
 
 ## 📝 Licencia y responsabilidad
 
-- Uso **educativo/defensivo**. Cualquier otro uso está prohibido.
+- Uso **APTs**. Cualquier otro uso está prohibido.
 - El autor y contribuidores **no se hacen responsables** por usos indebidos.
 - Si detectas debilidades en productos de terceros durante tus pruebas, usa **coordinated disclosure** con el proveedor.
 
