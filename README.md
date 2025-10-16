@@ -1,4 +1,4 @@
-# Ransomwares con Bypass para EDRs ' Usalos con sabiduria.
+# Ransomwares con Bypass para EDRs
 
 ---
 
