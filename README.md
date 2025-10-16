@@ -2,14 +2,6 @@
 
 ---
 
-## 🚫 Deliberadamente excluido
-
-- Cifrado real, manejo de claves o manipulación in-memory.
-- Técnicas de bypass de EDR/AV, AMSI, drivers o privilegios.
-- Exfiltración o **persistencia real**.
-
----
-
 ## 📝 Licencia y responsabilidad
 
 - Uso **educativo/defensivo**. Cualquier otro uso está prohibido.
